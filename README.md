@@ -1,2 +1,2 @@
 # demo
-Author: Tejaswi Kattegummula
+Author: Tejaswi Reddy
